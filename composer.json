@@ -1,10 +1,14 @@
 {
-  "name":         "leogout/seo-bundle",
-  "description":  "A Symfony bundle to generate SEO meta tags.",
+  "name":         "innerspirit/seo-bundle",
+  "description":  "A Symfony bundle to generate SEO meta tags. Re-published to make it stable  & installable.",
   "keywords":     ["seo"],
   "type":         "symfony-bundle",
   "license":      "MIT",
   "authors":      [
+    {
+      "name":     "Christian Maioli",
+      "email":    "chris@chrismm.com"
+    },
     {
       "name":     "leogout",
       "email":    "leogout@gmail.com"
